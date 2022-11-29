@@ -16,7 +16,7 @@ A piano app with fun sounds
 
 ```sh
 git clone https://github.com/ulysses-ck/dictapp-react
-cd dictapp-react
+cd angular-piano
 ```
 
 2. Install dependencies
