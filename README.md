@@ -5,7 +5,7 @@ A piano app with fun sounds
 
 -   Angular
 -   Tailwind CSS
--   Typescript
+-	Typescript
 -	Prettier
 
 <!-- Installation -->
